@@ -2,7 +2,7 @@
 
 *[FULL-SCREEN HTML TABLE HERE](http://htmlpreview.github.io/?https://raw.githubusercontent.com/roncapat/NASA-Hirise-DTMs-DEMs-index/master/index.html)*
 
-This table (in Markdown, HTML and CSV) contains the full listing of DT***.IMG files from the [HiRISE mission website] (www.uahirise.org). Those are PDS (Planetary Data System) files containing DTMs (Digital Terrain Models) of Mars surface. 
+This table (in Markdown, HTML and CSV) contains the full listing of DT***.IMG files from the [HiRISE mission website](uahirise.org). Those are PDS (Planetary Data System) files containing DTMs (Digital Terrain Models) of Mars surface. 
 
 The aim of this repository is to facilitate research by coordinate and target, and provide direct links.
 
